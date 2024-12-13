@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Luxury Villa",
+        "location": "Los Angeles",
+        "price": 5000.00,
+        "description": "Beautiful villa with a pool.",
+        "image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 2,
+        "name": "Cozy Apartment",
+        "location": "New York",
+        "price": 1200.00,
+        "description": "Cozy apartment in downtown NY.",
+        "image_url": "https://via.placeholder.com/150"
+    }
+]
