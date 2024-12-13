@@ -68,8 +68,14 @@ Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: Flask (Python), SQLAlchemy
 Database: MySQL
 
-##LOGIN PAGE
+##HOME PAGE
 ![image](https://github.com/user-attachments/assets/ab37af33-11a5-4072-9ec5-24a20aa9fecb)
+
+##LOGIN PAGE
+![image](https://github.com/user-attachments/assets/bee5d457-dde4-41e2-b5b4-9361eae0d094)
+
+##VIEW PROPERTIES PAGE
+![image](https://github.com/user-attachments/assets/94dfd211-41e8-40dc-9b03-c5c3fe6f137b)
 
 Author
 [Raushan Kumar]
